@@ -1,0 +1,38 @@
+_repo: Sevastopol_47197
+contributor:
+  translator:
+    agent_name: Hapgood, Isabel Florence
+    alias: Hapgood, Isabel F.
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '33608'
+    url: http://www.gutenberg.org/2009/agents/33608
+    wikipedia: http://en.wikipedia.org/wiki/Isabel_Florence_Hapgood
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoy, Lev N.
+    - Tolstoi, Leo
+    - Толстой, Лев Николаевич
+    - Tolstoï, Léon
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: After his involvement in the Siege of Sevastopol (1854-55), Leo Tolstoy
+  decided to write this collection of three fictional sketches about the experience.
+  Sevastopol in December" takes the reader on a tour of the city, including a makeshift
+  hospital with wounded soldiers. Sevastopol in May" and Sevastopol in August" continue
+  the narrative, analyzing what war is futile, he concludes.
+gutenberg_issued: '2014-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47197'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Sevastopol
+url: http://www.gutenberg.org/ebooks/47197

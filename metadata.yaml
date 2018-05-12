@@ -1,4 +1,5 @@
 _repo: Sevastopol_47197
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hapgood, Isabel Florence
@@ -8,6 +9,9 @@ contributor:
     gutenberg_agent_id: '33608'
     url: http://www.gutenberg.org/2009/agents/33608
     wikipedia: http://en.wikipedia.org/wiki/Isabel_Florence_Hapgood
+covers:
+- cover_type: archival
+  image_path: 47197-h/images/cover.jpg
 creator:
   author:
     agent_name: Tolstoy, Leo, graf
@@ -26,6 +30,8 @@ description: After his involvement in the Siege of Sevastopol (1854-55), Leo Tol
   Sevastopol in December" takes the reader on a tour of the city, including a makeshift
   hospital with wounded soldiers. Sevastopol in May" and Sevastopol in August" continue
   the narrative, analyzing what war is futile, he concludes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47197#Sevastopol
 gutenberg_issued: '2014-10-25'
 gutenberg_type: Text
 identifiers:
